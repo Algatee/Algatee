@@ -28,25 +28,28 @@ Sou apaixonado por tecnologia e desenvolvimento de software. Atualmente, estou a
 
 ## 🌟 Projetos em Destaque
 
-### [ViaMobilityApp](https://github.com/Algatee/ViaMobilityApp)
+### 📱 [ViaMobilityApp](https://github.com/Algatee/ViaMobilityApp)
 
-ViaMobility é um aplicativo inovador projetado para transformar sua experiência de mobilidade urbana. Com funcionalidades intuitivas e um design otimizado para dispositivos móveis, oferece soluções rápidas e eficientes para planejar rotas, acompanhar transportes públicos e acessar informações em tempo real.&#8203;:contentReference[oaicite:0]{index=0}
+Aplicativo mobile que revoluciona a mobilidade urbana com planejamento de rotas inteligentes, dados em tempo real e interface acessível.
 
-**Principais Funcionalidades:**
-- :contentReference[oaicite:1]{index=1}&#8203;:contentReference[oaicite:2]{index=2}
-- :contentReference[oaicite:3]{index=3}&#8203;:contentReference[oaicite:4]{index=4}
-- :contentReference[oaicite:5]{index=5}&#8203;:contentReference[oaicite:6]{index=6}
-- :contentReference[oaicite:7]{index=7}&#8203;:contentReference[oaicite:8]{index=8}
-
-### [SolarMetrics](https://github.com/Algatee/SolarMetrics-1)
-
-:contentReference[oaicite:9]{index=9}&#8203;:contentReference[oaicite:10]{index=10}
-
-### [Estância Gourmet](https://github.com/Algatee/estancia-gourmet)
-
-:contentReference[oaicite:11]{index=11}&#8203;:contentReference[oaicite:12]{index=12}
+**Principais funcionalidades:**
+- 🚍 Planejamento de rotas inteligentes, integrando transporte público, bicicletas e mais.
+- 📡 Atualizações em tempo real sobre trânsito, atrasos e mudanças de rota.
+- ♿ Acessibilidade com visual adaptável para todos os perfis de usuários.
+- 📱 Design responsivo, fluído e otimizado para dispositivos móveis.
 
 ---
+
+### ☀️ [SolarMetrics](https://github.com/Algatee/SolarMetrics-1)
+
+Projeto focado no monitoramento e análise de eficiência energética de sistemas solares. Ideal para usuários que buscam insights sobre desempenho de painéis fotovoltaicos.
+
+---
+
+### 🍽️ [Estância Gourmet](https://github.com/Algatee/estancia-gourmet)
+
+Aplicativo para gestão e divulgação de produtos gastronômicos artesanais. Funcionalidades incluem catálogo de produtos, gestão de estoque e pedidos.
+
 
 ## 📫 Contato
 
