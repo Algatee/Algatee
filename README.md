@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Arthur Ribeiro Algate
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas (2º período)  
+🎓 Estudante de Análise e Desenvolvimento de Sistemas (4º período)  
 💼 Estagiário na IT Works na área de dados  
 📍 São Paulo, SP  
 🎯 Foco em Front-End, UX/UI e Oracle SQL  
