@@ -28,7 +28,8 @@ Formado em ADS, com passagem por projetos full stack (Angular + Spring Boot). O 
 | --- | --- | --- |
 | [ViaMobilityApp](https://github.com/Algatee/ViaMobilityApp) | Mobilidade urbana em Next.js + TypeScript | 1º lugar NEXT FIAP |
 | [SolarMetrics](https://github.com/Algatee/SolarMetrics-1) | Desempenho e retorno financeiro de sistemas solares | Sustentabilidade |
-| Conexão Anjo | App que conecta vítimas de desastres naturais a quem pode ajudar | Vencedor Global Solution FIAP |
+| Lince | Monitoramento de EPIs em obras com câmeras e IA | Vencedor Global Solution FIAP |
+| Conexão Anjo | App que conecta vítimas de desastres naturais a quem pode ajudar | Global Solution FIAP |
 
 ---
 
