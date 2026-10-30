@@ -25,11 +25,8 @@ Análise de desempenho e retorno financeiro de sistemas solares residenciais.
 **[Catálogo de produtos](https://github.com/Algatee/catalogo-produtos)**  
 Catálogo em Next.js com listagem e integração via API.
 
-**[site-vendetta](https://github.com/Algatee/site-vendetta)** — [site-vendetta.vercel.app](https://site-vendetta.vercel.app)  
-Site institucional em Next.js.
-
-**[Estância Gourmet](https://github.com/Algatee/estancia-gourmet)** · **[Concessionária](https://github.com/Algatee/concessionaria)**  
-Interfaces web em Next.js e TypeScript.
+**[Estância Gourmet](https://github.com/Algatee/estancia-gourmet)**  
+Interface web em Next.js e TypeScript.
 
 ---
 
