@@ -18,7 +18,7 @@ Hoje atuo em uma **averbadora**, construindo interfaces web.
 
 Sou desenvolvedor front-end. Trabalho no dia a dia com interface, experiência do usuário e entrega de produto.
 
-Formado em ADS, com passagem por dados e por projetos full stack (Angular + Spring Boot). O foco atual é **front-end**.
+Formado em ADS, com passagem por projetos full stack (Angular + Spring Boot). O foco atual é **front-end**.
 
 ---
 
@@ -28,6 +28,7 @@ Formado em ADS, com passagem por dados e por projetos full stack (Angular + Spri
 | --- | --- | --- |
 | [ViaMobilityApp](https://github.com/Algatee/ViaMobilityApp) | Mobilidade urbana em Next.js + TypeScript | 1º lugar NEXT FIAP |
 | [SolarMetrics](https://github.com/Algatee/SolarMetrics-1) | Desempenho e retorno financeiro de sistemas solares | Sustentabilidade |
+| Conexão Anjo | App que conecta vítimas de desastres naturais a quem pode ajudar | Vencedor Global Solution FIAP |
 
 ---
 
